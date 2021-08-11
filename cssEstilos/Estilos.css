@@ -12,3 +12,6 @@ section{
     border: 1px solid rebeccapurple;
     text-align: center;
 }
+div{
+    border: 1px dashed saddlebrown;
+}
